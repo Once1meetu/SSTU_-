@@ -1,0 +1,5 @@
+C:\Users\Роман\Desktop\statistic\statistic\obj\Debug\statistic.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\statistic\statistic\bin\Debug\statistic.exe
+C:\Users\Роман\Desktop\statistic\statistic\bin\Debug\statistic.pdb
+C:\Users\Роман\Desktop\statistic\statistic\obj\Debug\statistic.exe
+C:\Users\Роман\Desktop\statistic\statistic\obj\Debug\statistic.pdb
